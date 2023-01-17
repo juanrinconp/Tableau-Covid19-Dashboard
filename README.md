@@ -11,16 +11,16 @@ Este dashboard en Tableau proporciona una visión general del progreso en la vac
 
 <br />
 
-### Screeshot del Dashboard
+### Dashboard
 
 ![CovidDashboard](./imagen/CovidDashboard.png)
 
 ### Información Contacto
 
- de contacto es la siguiente:
-
 Teléfono: 3142192278
+
 Correo electrónico: juan.rinconp@hotmail.com
+
 Linkedin: [juanrinconp](https://www.linkedin.com/in/juanrinconp/).
 
 Por favor, no dude en ponerse en contacto conmigo si tiene alguna pregunta o necesidad.
