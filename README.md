@@ -23,4 +23,4 @@ Correo electrónico: juan.rinconp@hotmail.com
 
 Linkedin: [juanrinconp](https://www.linkedin.com/in/juanrinconp/).
 
-Por favor, no dude en ponerse en contacto conmigo si tiene alguna pregunta o necesidad.
+Por favor, no dude en ponerse en contacto conmigo en caso de cualquier duda o comentario.
